@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github-banner.png" alt="Yash Chandurkar — Aspiring AI/ML Engineer" width="100%">
+<img src="github-banner.png" alt="Yash Chandurkar — Aspiring AI/ML Engineer" width="100%">
 
 # Hi, I'm Yash Chandurkar 👋
 
@@ -117,3 +117,4 @@ I am open to **AI/ML internships, fresher opportunities, and collaborative proje
 *Learning continuously. Building responsibly. Improving with every project.* 🚀
 
 </div>
+
